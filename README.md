@@ -233,8 +233,8 @@ _ _ _ _ _ _ _ _ _ p
 
 ---
 
-## 👩‍💻 Author  
+##  Author  
 *Sushmitha M S*
 
-## 🏢 Internship  
+##  Internship  
 *CodeAlpha – Python Programming*
