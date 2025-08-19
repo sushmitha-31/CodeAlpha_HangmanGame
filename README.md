@@ -231,5 +231,10 @@ _ _ _ _ _ _ _ _ _ p
 💀 Game Over! The word was 'internship'.
 
 
-**Author -** Sushmitha M S
-**Internship -** CodeAlpha - Python Programming
+---
+
+## 👩‍💻 Author  
+*Sushmitha M S*
+
+## 🏢 Internship  
+*CodeAlpha – Python Programming*
