@@ -17,7 +17,7 @@ A simple text-based Hangman game built in Python for the *CodeAlpha Internship*.
 4.Follow the onscreen instructions.
 
 **Example Winning Output**
-🎯 Welcome to Hangman Game!
+ Welcome to Hangman Game!
 
      +---+
      |   |
@@ -119,11 +119,11 @@ Enter a letter: a
     =========
 
 c o m p a n y
-🎉 Congratulations! You guessed the word.
+Congratulations! You guessed the word.
 
 
 **Example Losing Output**
-🎯 Welcome to Hangman Game!
+Welcome to Hangman Game!
 
      +---+
      |   |
@@ -228,7 +228,7 @@ Enter a letter: g
     =========
 
 _ _ _ _ _ _ _ _ _ p
-💀 Game Over! The word was 'internship'.
+Game Over! The word was 'internship'.
 
 
 ---
