@@ -76,7 +76,7 @@ def hangman():
     guessed_letters = []
     attempts_left = 6
 
-    print("🎯 Welcome to Hangman Game!")
+    print(" Welcome to Hangman Game!")
     print(HANGMAN_PICS[0])
     print("_ " * len(word_to_guess))
 
@@ -110,10 +110,11 @@ def hangman():
         print(display_word.strip())
 
         if "_" not in display_word:
-            print("🎉 Congratulations! You guessed the word.")
+            print("Congratulations! You guessed the word.")
             break
     else:
-        print(f"💀 Game Over! The word was '{word_to_guess}'.")
+        print(f" Game Over! The word was '{word_to_guess}'.")
 
 if __name__ == "__main__":
     hangman()
+
